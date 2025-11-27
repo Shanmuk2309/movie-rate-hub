@@ -14,7 +14,68 @@ export type Database = {
   }
   public: {
     Tables: {
-      [_ in never]: never
+      movies: {
+        Row: {
+          actors: string[]
+          created_at: string
+          director: string
+          id: string
+          poster_url: string | null
+          release_date: string
+          synopsis: string | null
+          title: string
+        }
+        Insert: {
+          actors?: string[]
+          created_at?: string
+          director: string
+          id?: string
+          poster_url?: string | null
+          release_date: string
+          synopsis?: string | null
+          title: string
+        }
+        Update: {
+          actors?: string[]
+          created_at?: string
+          director?: string
+          id?: string
+          poster_url?: string | null
+          release_date?: string
+          synopsis?: string | null
+          title?: string
+        }
+        Relationships: []
+      }
+      reviews: {
+        Row: {
+          created_at: string
+          id: string
+          movie_id: string
+          rating: number
+        }
+        Insert: {
+          created_at?: string
+          id?: string
+          movie_id: string
+          rating: number
+        }
+        Update: {
+          created_at?: string
+          id?: string
+          movie_id?: string
+          rating?: number
+        }
+        Relationships: [
+          {
+            foreignKeyName: "reviews_movie_id_fkey"
+            columns: ["movie_id"]
+            isOneToOne: false
+            referencedRelation: "movies"
+            referencedColumns: ["id"]
+          },
+        ]
+      }
     }
     Views: {
       [_ in never]: never
