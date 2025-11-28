@@ -1,4 +1,6 @@
-# Welcome to your Lovable project
+# Cine Rate App
+
+This app allow you to rate movies.
 
 ## Project info
 
