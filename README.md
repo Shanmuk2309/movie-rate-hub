@@ -1,4 +1,6 @@
-# Welcome to your Lovable project
+# Cine Rate App
+
+This is a Movie Review platform built for film lovers to share opinions.
 
 ## Project info
 
