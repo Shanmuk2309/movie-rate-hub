@@ -1,4 +1,6 @@
-# Welcome to your Lovable project
+# Movie Rating app  
+
+This application allows users to rate the movies which are released.
 
 ## Project info
 
@@ -24,7 +26,7 @@ Follow these steps:
 
 ```sh
 # Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+git clone <https://github.com/Shanmuk2309/movie-rate-hub>
 
 # Step 2: Navigate to the project directory.
 cd <YOUR_PROJECT_NAME>
