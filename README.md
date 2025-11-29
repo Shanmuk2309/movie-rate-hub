@@ -1,6 +1,6 @@
-# Movie Rating app  
+# Cine Rate App
 
-This application allows users to rate the movies which are released.
+This is a Movie Review platform built for film lovers to share opinions.
 
 ## Project info
 
@@ -28,8 +28,8 @@ Follow these steps:
 # Step 1: Clone the repository using the project's Git URL.
 git clone <https://github.com/Shanmuk2309/movie-rate-hub>
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+# Step 2: Navigate to the project directory
+cd cineRate
 
 # Step 3: Install the necessary dependencies.
 npm i
