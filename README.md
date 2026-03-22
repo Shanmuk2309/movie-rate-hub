@@ -116,11 +116,11 @@ To connect your own domain:
 
 ## 👨‍💻 Authors
 
-**Umesh B**
-🔗 GitHub: https://github.com/B-Umesh66
-
 **Naga Sai Shanmuk**
 🔗 GitHub: https://github.com/Shanmuk2309
+
+**Umesh B**
+🔗 GitHub: https://github.com/B-Umesh66
 
 ---
 
