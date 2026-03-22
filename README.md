@@ -24,7 +24,7 @@ https://lovable.dev/projects/672ae875-0c31-468f-aa14-507ee47bc558
 
 ```bash
 # Clone the repository
-git clone https://github.com/B-Umesh66/movie-rate-hub.git
+git clone https://github.com/Shanmuk2309/movie-rate-hub.git
 
 # Navigate to project folder
 cd cineRate
