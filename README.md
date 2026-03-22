@@ -1,75 +1,129 @@
-# Cine Rate App
+# 🎬 Movie Rate Hub
 
-This is a Movie Review platform built for film lovers to share opinions.
+A modern Movie Rating & Review platform built for film lovers to explore, rate, and share opinions on movies in real-time.
 
-## Project info
+---
 
-**URL**: https://lovable.dev/projects/672ae875-0c31-468f-aa14-507ee47bc558
+## 🚀 Project Info
 
-## How can I edit this code?
+🔗 **Live Project URL**:
+https://lovable.dev/projects/672ae875-0c31-468f-aa14-507ee47bc558
 
-There are several ways of editing your application.
+---
 
-**Use Lovable**
+## 🛠️ How to Run Locally
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/672ae875-0c31-468f-aa14-507ee47bc558) and start prompting.
+### Prerequisites
 
-Changes made via Lovable will be committed automatically to this repo.
+* Node.js & npm installed
+  👉 Recommended: install using nvm
 
-**Use your preferred IDE**
+---
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+### Steps
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+```bash
+# Clone the repository
+git clone https://github.com/B-Umesh66/movie-rate-hub.git
 
-Follow these steps:
-
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <https://github.com/Shanmuk2309/movie-rate-hub>
-
-# Step 2: Navigate to the project directory
+# Navigate to project folder
 cd cineRate
 
-# Step 3: Install the necessary dependencies.
-npm i
+# Install dependencies
+npm install
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+# Start development server
 npm run dev
 ```
 
-**Edit a file directly in GitHub**
+---
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+## ✏️ How to Edit the Project
 
-**Use GitHub Codespaces**
+### 🔹 Using Lovable (Recommended)
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+Visit the project on Lovable and start prompting:
+https://lovable.dev/projects/672ae875-0c31-468f-aa14-507ee47bc558
 
-## What technologies are used for this project?
+Changes made via Lovable are automatically synced with this repository.
 
-This project is built with:
+---
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+### 🔹 Using Local IDE
 
-## How can I deploy this project?
+* Clone the repository
+* Make changes in your IDE
+* Push changes to GitHub
 
-Simply open [Lovable](https://lovable.dev/projects/672ae875-0c31-468f-aa14-507ee47bc558) and click on Share -> Publish.
+---
 
-## Can I connect a custom domain to my Lovable project?
+### 🔹 Edit Directly on GitHub
 
-Yes, you can!
+* Open any file
+* Click the ✏️ Edit button
+* Commit changes
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+---
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+### 🔹 Using GitHub Codespaces
+
+* Click **Code → Codespaces → New Codespace**
+* Edit and push changes directly
+
+---
+
+## 🧰 Tech Stack
+
+* ⚡ Vite
+* 🟦 TypeScript
+* ⚛️ React
+* 🎨 Tailwind CSS
+* 🧩 shadcn-ui
+* 🔥 Supabase
+* 🔥 Firebase
+* 🤖 Lovable (Vibe Coding)
+
+---
+
+## ✨ Features
+
+* 🎬 Browse and explore movies
+* ⭐ Rate movies
+* 📝 Add reviews
+* 🔄 Real-time data updates
+* 🎨 Clean and modern UI
+
+---
+
+## 🚀 Deployment
+
+You can deploy directly using Lovable:
+
+👉 Go to **Share → Publish** in Lovable
+
+---
+
+## 🌐 Custom Domain
+
+To connect your own domain:
+
+* Go to **Project → Settings → Domains**
+* Click **Connect Domain**
+
+📖 Docs: https://docs.lovable.dev/features/custom-domain#custom-domain
+
+---
+
+## 👨‍💻 Authors
+
+**Umesh B**
+🔗 GitHub: https://github.com/B-Umesh66
+
+**Naga Sai Shanmuk**
+🔗 GitHub: https://github.com/Shanmuk2309
+
+---
+
+## ⭐ Support
+
+If you like this project, give it a ⭐ on GitHub!
